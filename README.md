@@ -4,7 +4,7 @@ Theme: Keep Your Distance
 
 ![Cover](Screenshots/Cover.PNG)
 
-Protect scene from panks!
+Protect scene from punks!
 
 # Downloads and Links
 Available in [Windows, OSX, Linux and Web](https://teamon.itch.io/keep-your-rock-distance). If you encounter any problem, please leave a issue! 
