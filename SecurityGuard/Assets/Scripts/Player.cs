@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour {
@@ -9,6 +10,7 @@ public class Player : MonoBehaviour {
 	[HideInInspector] [SerializeField] Animator anim;
 
 	Vector2 moveVector;
+	bool isCanMove = true;
 
 #if UNITY_EDITOR
 	private void OnValidate() {
@@ -18,7 +20,7 @@ public class Player : MonoBehaviour {
 #endif
 
 	void FixedUpdate() {
-		if (moveVector.magnitude >= 0.05f) {
+		if (isCanMove && moveVector.magnitude >= 0.05f) {
 			rb.velocity = moveVector.normalized * speed;
 			anim.SetBool("IsRun", true);
 		}
@@ -30,5 +32,9 @@ public class Player : MonoBehaviour {
 
 	public void OnMove(InputAction.CallbackContext context) {
 		moveVector = context.ReadValue<Vector2>();
+	}
+
+	public void OnLose() {
+		isCanMove = false;
 	}
 }
