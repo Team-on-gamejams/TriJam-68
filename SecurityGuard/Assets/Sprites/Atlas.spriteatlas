@@ -43,13 +43,15 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 7cbcb5a08cda4d64ea7cd30abc4ef84f, type: 3}
-    totalSpriteSurfaceArea: 21998144
+    totalSpriteSurfaceArea: 22385344
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 21300000, guid: c44f63d0b3c28af43b549364390e2003, type: 3}
   - {fileID: 21300000, guid: 03b9531102722584b81a981c1ce86758, type: 3}
   - {fileID: 21300000, guid: 4d5ecd81da347c649bbf1771a909fc7e, type: 3}
   - {fileID: 21300000, guid: 9baca292dd7a2394f92b8a62e8092aed, type: 3}
+  - {fileID: 21300000, guid: 55e6e993de8e41a458f023df7a2a7c94, type: 3}
   - {fileID: 21300000, guid: c186dc243f451834983c6b14775608a0, type: 3}
   - {fileID: 21300000, guid: a8ccf306f1dac2e469146761ffd7ceab, type: 3}
   - {fileID: 21300000, guid: c61bf3e6000032e44a6ea46d154b0d9c, type: 3}
@@ -67,9 +69,11 @@ SpriteAtlas:
   - {fileID: 21300000, guid: e8d5548f99d220b4688080aac9598719, type: 3}
   - {fileID: 21300000, guid: 9540cbdf7749e7843a4c66b515988450, type: 3}
   m_PackedSpriteNamesToIndex:
+  - RunnerAlt1
   - Player0
   - Runner2
   - Scene0
+  - RunnerAlt0
   - Runner3
   - Player3
   - Fance0

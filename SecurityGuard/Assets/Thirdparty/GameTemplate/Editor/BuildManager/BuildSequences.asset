@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: BuildSequences
   m_EditorClassIdentifier: 
   sequences:
-  - editorName: '  '
-    itchGameLink: teamon/security-guard
+  - editorName: teamon/keep-your-rock-distance
+    itchGameLink: teamon/keep-your-rock-distance
     builds:
     - outputRoot: Builds/
       middlePath: $NAME_$VERSION_TEST/$NAME$EXECUTABLE
@@ -244,7 +244,7 @@ MonoBehaviour:
       needSteamPush: 0
       needGoogleDricePush: 0
   - editorName: Local + Zip + itch.io
-    itchGameLink: teamon/security-guard
+    itchGameLink: teamon/keep-your-rock-distance
     builds:
     - outputRoot: Builds/
       middlePath: $NAME_$VERSION_$PLATFORM/$NAME_$VERSION/$NAME$EXECUTABLE
@@ -324,23 +324,6 @@ MonoBehaviour:
       needItchPush: 1
       itchChannel: webgl
       itchDirPath: $NAME_$VERSION_$PLATFORM
-      itchAddLastChangelogUpdateNameToVerison: 1
-      itchLastChangelogUpdateName: 
-      useGithubActions: 0
-      useUnityActions: 0
-      needGamejolthPush: 0
-      needSteamPush: 0
-      needGoogleDricePush: 0
-    - outputRoot: Builds/
-      middlePath: $NAME_$VERSION_$PLATFORM$EXECUTABLE
-      targetGroup: 7
-      target: 13
-      options: 8
-      needZip: 0
-      compressDirPath: 
-      needItchPush: 1
-      itchChannel: android
-      itchDirPath: $NAME_$VERSION_$PLATFORM$EXECUTABLE
       itchAddLastChangelogUpdateNameToVerison: 1
       itchLastChangelogUpdateName: 
       useGithubActions: 0
