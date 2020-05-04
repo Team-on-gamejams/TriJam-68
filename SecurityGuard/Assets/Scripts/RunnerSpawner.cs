@@ -16,7 +16,7 @@ public class RunnerSpawner : MonoBehaviour {
 	[SerializeField] float speedMin = 1.0f;
 	[SerializeField] float speedMax = 2.0f;
 
-	float currTime = 5.0f;
+	float currTime = 8.0f;
 	int currPoint = 0;
 
 	private void Awake() {
