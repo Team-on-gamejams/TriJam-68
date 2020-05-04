@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7cbcb5a08cda4d64ea7cd30abc4ef84f, type: 3}
+    totalSpriteSurfaceArea: 21998144
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 03b9531102722584b81a981c1ce86758, type: 3}
+  - {fileID: 21300000, guid: 4d5ecd81da347c649bbf1771a909fc7e, type: 3}
+  - {fileID: 21300000, guid: 9baca292dd7a2394f92b8a62e8092aed, type: 3}
+  - {fileID: 21300000, guid: c186dc243f451834983c6b14775608a0, type: 3}
+  - {fileID: 21300000, guid: a8ccf306f1dac2e469146761ffd7ceab, type: 3}
+  - {fileID: 21300000, guid: c61bf3e6000032e44a6ea46d154b0d9c, type: 3}
+  - {fileID: 21300000, guid: f65a691705da9434f9ed1c1ae233f09c, type: 3}
+  - {fileID: 21300000, guid: ad226447cef9bec46ba288bffe362763, type: 3}
+  - {fileID: 21300000, guid: 0d9159589da89ce46aa62230044a91a6, type: 3}
+  - {fileID: 21300000, guid: cfd0d729f77a0f6428939a7fc2f11f48, type: 3}
+  - {fileID: 21300000, guid: 073166bae9306014b97bcefeb5b5536e, type: 3}
+  - {fileID: 21300000, guid: c3554a7d5e0ce8a46a65fc49ae4cd369, type: 3}
+  - {fileID: 21300000, guid: 3f96448efb5c812448ba7ebe4275c2b0, type: 3}
+  - {fileID: 21300000, guid: 717b398eabfb3ba4d82f742582c7f115, type: 3}
+  - {fileID: 21300000, guid: 427b4aceff06b174e86f1f2b8e17b09a, type: 3}
+  - {fileID: 21300000, guid: ee9badfeae63f024698ad965aa2948aa, type: 3}
+  - {fileID: 21300000, guid: fcbf828f97309924abe45cf8a0ba44e2, type: 3}
+  - {fileID: 21300000, guid: e8d5548f99d220b4688080aac9598719, type: 3}
+  - {fileID: 21300000, guid: 9540cbdf7749e7843a4c66b515988450, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Player0
+  - Runner2
+  - Scene0
+  - Runner3
+  - Player3
+  - Fance0
+  - FanceCon0
+  - Runner0
+  - Player1
+  - Scene1
+  - Fance3
+  - FanceCon1
+  - FanceCon2
+  - Player2
+  - PlayerIdle
+  - Fance1
+  - Fance2
+  - Runner1
+  - Crowd
+  m_Tag: Atlas
+  m_IsVariant: 0
