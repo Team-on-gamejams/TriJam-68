@@ -2282,7 +2282,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'WASD or left stick - move
 
-    Stay close to pank to push him back'
+    Stay close to punk to push him back'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -2818,7 +2818,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pank get close to scene and took few selfies with band. You fired
+  m_text: Punk get close to scene and took few selfies with band. You fired
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -3323,7 +3323,7 @@ MonoBehaviour:
   - {fileID: 2110507178}
   - {fileID: 1812515742}
   runnerTime: 2
-  timePerSpawn: -0.1
+  timePerSpawn: 0.1
   speedMin: 1
   speedMax: 2
 --- !u!1 &1761155792
@@ -3767,7 +3767,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Keep panks away from scene
+  m_text: Keep punks away from scene
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}

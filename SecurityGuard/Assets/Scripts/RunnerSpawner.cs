@@ -33,7 +33,7 @@ public class RunnerSpawner : MonoBehaviour {
 
 		if(currTime <= 0) {
 			currTime += runnerTime;
-			if(runnerTime > 0.5f)
+			if(runnerTime > 1.2f)
 				runnerTime -= timePerSpawn;
 
 			Runner r = Instantiate(runners.Random(), points[currPoint++].transform.position, Quaternion.identity, transform).GetComponent<Runner>();
