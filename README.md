@@ -2,7 +2,7 @@
 [TriJam #68: The 3 hour game jam](https://itch.io/jam/trijam-68)  
 Theme: Keep Your Distance
 
-![Cover](Screenshots/Cover.png)
+![Cover](Screenshots/Cover.PNG)
 
 Protect scene from panks!
 
