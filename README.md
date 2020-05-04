@@ -2,9 +2,9 @@
 [TriJam #68: The 3 hour game jam](https://itch.io/jam/trijam-68)  
 Theme: Keep Your Distance
 
-![Cover](Screenshots/Cover.png)
+![Cover](Screenshots/Cover.PNG)
 
-Protect scene from panks!
+Protect scene from punks!
 
 # Downloads and Links
 Available in [Windows, OSX, Linux and Web](https://teamon.itch.io/keep-your-rock-distance). If you encounter any problem, please leave a issue! 
